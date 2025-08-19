@@ -1,5 +1,7 @@
 # SSMA
-This repository will soon contain content for the summer school in (model-based) multivariate analysis.
+This repository will contains the content from the summer school in (model-based) multivariate analysis, organised on 21-25 of July 2025, thanks to funding by Nordic Society Oikos.
+
+![NSO](Nordic Society Oikos transparent ej bringing .png)
 
 See https://bertv.folk.ntnu.no/index.html for more details.
 
